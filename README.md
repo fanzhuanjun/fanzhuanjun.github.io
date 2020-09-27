@@ -14,7 +14,7 @@
 
 [呐喊](https://myeconomics.cn/economics/#) ：社科类知识库（入世学、公司学、经济学等）；
 
-[彷徨](https://myeconomics.cn/geek) ：计算机知识库；
+[python与鲁迅](https://myeconomics.cn/geek) ：计算机知识库；
 
 [题未定草](日常笔记/README) ：杂文集。
 
