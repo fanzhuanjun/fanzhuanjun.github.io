@@ -36,9 +36,9 @@
 
 ## 交流方式
 
-我的邮箱: 13631203039@163.com
+**邮箱**：  m13631203039@163.com
 
-我的微信：bufuquanjy
+**微信**：bufuquanjy，添加好友请备注一下信息，谢谢。
 
 如果觉得我的文章能够帮到你，可以给我一些小的[资助](https://github.com/fanzhuanjun/donate/blob/master/README.md)
 
