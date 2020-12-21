@@ -22,39 +22,21 @@
 
 ### 入门教材（我没看过，恰巧搜罗的）
 
-《[Python量化交易入门](https://book.douban.com/subject/33452830/)》 
-
-链接：https://pan.baidu.com/s/1C3mW3Qs4drRU014v-bSWlg 
-
-
-
-
+《[Python量化交易入门](https://book.douban.com/subject/33452830/)》 链接：https://pan.baidu.com/s/1C3mW3Qs4drRU014v-bSWlg 
 
 
 
 ### 豆瓣高分教材
 
-《[预期收益：投资者获利指南](https://book.douban.com/subject/30218503/)》（最近正在看）
-
-链接：https://pan.baidu.com/s/1xOGTUMl0ZzQ-GRGNW-cIFQ 
+《[预期收益：投资者获利指南](https://book.douban.com/subject/30218503/)》（最近正在看）链接：https://pan.baidu.com/s/1xOGTUMl0ZzQ-GRGNW-cIFQ 
 
 
 
-
-
-《[量化股票组合管理](https://book.douban.com/subject/30323464/)》
-
-链接：https://pan.baidu.com/s/1f6V40hnzDsfFDbIrK-I1NQ 
+《[量化股票组合管理](https://book.douban.com/subject/30323464/)》链接：https://pan.baidu.com/s/1f6V40hnzDsfFDbIrK-I1NQ 
 
 
 
-
-
-《[主动投资组合管理](https://book.douban.com/subject/25984361/)》
-
-链接：https://pan.baidu.com/s/1UQktQDxwFJab8n3ha5M1wQ 
-
-
+《[主动投资组合管理](https://book.douban.com/subject/25984361/)》链接：https://pan.baidu.com/s/1UQktQDxwFJab8n3ha5M1wQ 
 
 
 
@@ -62,31 +44,17 @@
 
 ### 其他补充
 
-《[FOF投资的量化分析](https://book.douban.com/subject/30421227/)》
-
-链接：https://pan.baidu.com/s/1GGNEG03e-N1-EZrieyj0rQ 
+《[FOF投资的量化分析](https://book.douban.com/subject/30421227/)》链接：https://pan.baidu.com/s/1GGNEG03e-N1-EZrieyj0rQ 
 
 
 
-
-
-《[股票基本面分析清单](https://book.douban.com/subject/30435128/)》
-
-链接：https://pan.baidu.com/s/1qAs9g7DUKuTqPP9oUjwClQ 
+《[股票基本面分析清单](https://book.douban.com/subject/30435128/)》链接：https://pan.baidu.com/s/1qAs9g7DUKuTqPP9oUjwClQ 
 
 
 
-
-
-《[数量化股票投资：技术与策略](https://book.douban.com/subject/26594501/)》
-
-链接：https://pan.baidu.com/s/1cLSKMw21mN9ybU413GS31w 
+《[数量化股票投资：技术与策略](https://book.douban.com/subject/26594501/)》链接：https://pan.baidu.com/s/1cLSKMw21mN9ybU413GS31w 
 
 
 
-
-
-《[反直觉投资](https://book.douban.com/subject/26786997/)》
-
-链接：https://pan.baidu.com/s/1yhdj53GSL878Sx0eE-G-zg 
+《[反直觉投资](https://book.douban.com/subject/26786997/)》链接：https://pan.baidu.com/s/1yhdj53GSL878Sx0eE-G-zg 
 
