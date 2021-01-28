@@ -6,7 +6,7 @@
 
 ## 我的视频
 
-我的b站视频：https://space.bilibili.com/62972486。
+我的b站视频：https://space.bilibili.com/62972486
 
 
 
