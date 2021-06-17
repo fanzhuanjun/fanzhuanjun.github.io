@@ -4,9 +4,15 @@
 
 
 
-## 我的视频
+## 我的链接
+
+最近开了数据分析服务的淘宝店，如果有数据分析的需求可以找我哦！！链接在下面：
+
+数据分析服务：[淘宝店](https://item.taobao.com/item.htm?spm=a230r.1.14.16.340a4b2edErCGj&id=648075902025&ns=1&abbucket=18#detail)
 
 我的b站视频：https://space.bilibili.com/62972486
+
+
 
 
 
@@ -17,8 +23,6 @@
 [编程日记](https://myeconomics.cn/geek/#/) ：计算机知识库；
 
 [题未定草](日常笔记/README) ：杂文集。
-
-
 
 
 
