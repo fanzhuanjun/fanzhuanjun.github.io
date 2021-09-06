@@ -6,10 +6,6 @@
 
 ## 我的链接
 
-<font color='red'>**最近开了数据分析服务的淘宝店，如果有数据分析的需求可以找我哦！！链接在下面：**</font>
-
-数据分析服务：[淘宝店](https://item.taobao.com/item.htm?spm=a230r.1.14.16.340a4b2edErCGj&id=648075902025&ns=1&abbucket=18#detail)
-
 我的b站视频：https://space.bilibili.com/62972486
 
 
